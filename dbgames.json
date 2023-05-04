@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo do Ano",
+      "descricao": "Jogo premiado",
+      "foto": "jogo1.PNG",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "Mais Vendido",
+      "descricao": "Campeão de Vendas",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "Lançamento",
+      "descricao": "Adquira já o seu",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    },
+    {
+      "id": 4,
+      "produto": "Jogo Modificado",
+      "descricao": "Testando CRUD",
+      "foto": "jogo1.PNG",
+      "preco": 100
+    }
+  ]
+}

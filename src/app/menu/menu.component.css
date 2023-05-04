@@ -1,0 +1,30 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+mat-toolbar{
+  background-color: lightgrey;
+}
+
+span{
+  padding: 10px;
+  
+}
+
+
+
+img{
+  height: 60px;
+  width: 60px;  
+  margin: 10px,10px,10px,10px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  
+}
+
+a:hover{
+  color: grey;
+}
